@@ -1,0 +1,14 @@
+         SuperMart POS System        
+         ---------------------       
+Date: 2025-06-15 12:15:12
+Customer: Bread
+Phone: +923495430653
+Order ID: 18
+-------------------------------------
+Item              Qty  Price  Total
+-------------------------------------
+Olpers            6    300.00 1800.00
+Bread             1    150.00 150.00
+-------------------------------------
+Total Amount:               Rs 1950.00
+        Thank you for shopping!      

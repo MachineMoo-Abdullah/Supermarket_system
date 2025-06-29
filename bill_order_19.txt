@@ -1,0 +1,13 @@
+         SuperMart POS System        
+         ---------------------       
+Date: 2025-06-15 12:17:49
+Customer: Bread
+Phone: +923495430653
+Order ID: 19
+-------------------------------------
+Item              Qty  Price  Total
+-------------------------------------
+Bread             2    150.00 300.00
+-------------------------------------
+Total Amount:               Rs 300.00
+        Thank you for shopping!      
